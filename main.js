@@ -72,7 +72,7 @@ var invitees = { adults: [{
                       };
 
 // 4. Access Penny's dinner choice (this will be the second item in his dinnerChoice array)
-
+new commit
 // 5. Access Pablo's table number.
 
 // 6. Access Lauren's seating specialConsideration.
